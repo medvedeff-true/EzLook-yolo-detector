@@ -1,0 +1,5 @@
+{
+    "dataset_path": "C:/visdrone_dataset/VisDrone.yaml",
+    "model_path": "C:/visdrone_dataset/Models/11x+.pt",
+    "project_dir": "C:/visdrone_dataset/Models"
+}
